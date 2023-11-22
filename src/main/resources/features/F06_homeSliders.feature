@@ -1,5 +1,5 @@
 @smoke
-Feature: you will find two sliders when you open home page https://demo.nopcommerce.com/
+Feature: Home Sliders
 
   Scenario: 1
     When user click on first slider
